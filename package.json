@@ -4,7 +4,7 @@
   "description": "SlackBot that tells random jokes",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "Zeeshan Tamboli",
   "license": "ISC",
